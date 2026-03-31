@@ -52,3 +52,23 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Visual Studio (IDE)
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider / IntelliJ / ReSharper user-specific settings
+*.DotSettings.user
+*.sln.DotSettings.user
+.idea/
+*.sln.DotSettings.user
+
+# (Optional) Visual Studio Code
+.vscode
+
+# (Optional) OS junk
+.DS_Store
+Thumbs.db
